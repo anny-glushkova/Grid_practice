@@ -31,31 +31,31 @@ line-height: 47px;
     text-decoration: underline;
 }
 .sidebar .nav .menu li:first-child::before {
-    content: url(/img/icons/New_in.png);
+    content: url(img/icons/New_in.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(2)::before {
-    content: url(/img/icons/clothing.png);
+    content: url(img/icons/clothing.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(3)::before {
-    content: url(/img/icons/shoes.png);
+    content: url(img/icons/shoes.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(4)::before {
-    content: url(/img/icons/accessories.png);
+    content: url(img/icons/accessories.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(5)::before {
-    content: url(/img/icons/activewear.png);
+    content: url(img/icons/activewear.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(6)::before {
-    content: url(/img/icons/gifts.png);
+    content: url(img/icons/gifts.png);
     padding-right: 5px;
 }
 .sidebar .nav .menu li:nth-child(7)::before {
-    content: url(/img/icons/inspiration.png);
+    content: url(img/icons/inspiration.png);
     padding-right: 5px;
 }
 .logo {
@@ -111,7 +111,7 @@ line-height: 47px;
 
 }
 .item_blue_block {
-    background-image: url(/img/picture/get\ up.png);
+    background-image: url(img/picture/get\ up.png);
     
     grid-area: get;
     border-radius: 5%;
@@ -128,26 +128,26 @@ line-height: 47px;
 
 .orange {
     background-color: E9E5E2;
-    background: url(/img/picture/orange.png) 100% 100% no-repeat;
+    background: url(img/picture/orange.png) 100% 100% no-repeat;
 
 }
 
 .violet_girl {
     grid-area: vi;
     border-radius: 5%;
-    background-image: url(/img/picture/violet.png);
+    background-image: url(img/picture/violet.png);
 
 }
 .pink_girl {
     grid-area: pi;
     border-radius: 5%;
-    background-image: url(/img/picture/pink_wine.png);
+    background-image: url(img/picture/pink_wine.png);
 
 }
 .blue_girl {
     grid-area: bl;
     border-radius: 5%;
-    background-image: url(/img/picture/blue.png);
+    background-image: url(img/picture/blue.png);
 
 }
 .curly_blue {
@@ -159,7 +159,7 @@ line-height: 47px;
 } 
 .item_yellow_block {
     grid-area: yel;
-    background-image: url(/img/picture/yellow.png);
+    background-image: url(img/picture/yellow.png);
     border-radius: 5%;
 
     display: grid;
@@ -170,7 +170,7 @@ line-height: 47px;
 }
 .item_orange_block {
     grid-area: or;
-    background: #E9E5E2 url(/img/picture/orange.png) 100% 100% no-repeat;
+    background: #E9E5E2 url(img/picture/orange.png) 100% 100% no-repeat;
     border-radius: 5%;
     display: grid;
 
